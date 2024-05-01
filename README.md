@@ -2,7 +2,8 @@ In this assignment, let's build a Countries Search Page by applying the concepts
 
 Refer to the below image.
 
-![image](https://github.com/bukka5sandhya/Countries-Search-Page-Javascript/assets/133884532/0428ad5e-f6cb-4b85-8172-a67284c36c35)
+![image](https://github.com/bukka5sandhya/Countries-Search-Page-Javascript/assets/133884532/433313e6-cd34-4090-89d6-cabc26c009cc)
+
 
 https://assets.ccbp.in/frontend/content/dynamic-webapps/countries-search-page-output-v2.gif
 
