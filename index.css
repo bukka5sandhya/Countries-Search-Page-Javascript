@@ -1,0 +1,42 @@
+.heading{
+    color:#3e4c59;
+    font-family:'Roboto';
+    font-size:28px;
+    font-weight:bold;
+
+}
+.search-input{
+    font-size:18px;
+    font-family: 'Roboto';
+    height:50px;
+    padding:10px;
+}
+.result-countries{
+    margin-top:18px;
+}
+.country-card{
+    margin-top:15px;
+    margin-bottom:15px;
+    padding:15px;
+    border-radius:24px;
+    background-color:  #ebf2fc;
+}
+.country-flag{
+    width:70px;
+    height:70px;
+}
+.country-name{
+    font-size:22px;
+    font-family: 'Roboto';
+    font-weight: bold;
+    color: #183b56;
+    margin-bottom:8px;
+
+
+}
+.country-population{
+    font-size:18px;
+    font-family: 'Roboto';
+    font-weight: 300;
+
+}
